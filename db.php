@@ -1,3 +1,5 @@
+//this code is used to connect database with php 
+
 <?php
 
 $servername = "localhost";
